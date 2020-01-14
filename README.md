@@ -9,4 +9,4 @@ Links https://docs.codeclimate.com/docs/github-pull-requests
 https://docs.codeclimate.com/docs/workflow
 https://docs.codeclimate.com/docs/github-pull-requests#section-inline-issue-comments
 
-CircleCI Guest Writer editor
+CircleCI Guest Writer editor - [Ndagi Stanley](https://github.com/NdagiStanley)

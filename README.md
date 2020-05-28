@@ -1,3 +1,5 @@
+# Continuous integration with Code Climate's automated code review
+
 [![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/my-laravel-api.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/my-laravel-api)
 [![Maintainability](https://api.codeclimate.com/v1/badges/08ca1fe2a799848c3f81/maintainability)](https://codeclimate.com/github/emabishi/circleci-codeclimate/maintainability)
 
